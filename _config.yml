@@ -1,5 +1,5 @@
 # Site
-repository: sproogen/resume-theme
+repository: samuelceballos04/cv
 favicon: images/favicon.ico
 
 # Content configuration version
@@ -12,7 +12,7 @@ email: brett.h@email.co.uk
 website: www.github.com/sproogen/resume-theme
 
 # Dark Mode (true/false/never)
-darkmode: false
+darkmode: true
 
 # Social links
 twitter_username: facespics
