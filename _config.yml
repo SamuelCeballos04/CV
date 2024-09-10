@@ -112,7 +112,7 @@ content:
         # quote: >
         #   Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
         description: | # this will include new lines to allow paragraphs
-        All of the skills I have to this day were learnt first here. I started from scratch, from learning the principles of programming logics to very complex things such as AI.
+          All of the skills I have to this day were learnt first here. I started from scratch, from learning the principles of programming logics to very complex things such as AI.
 
   - title: A Little More About Me
     layout: text
