@@ -46,7 +46,7 @@ additional_links:
 
 # About Section
 # about_title: About Me
-about_profile_image: images/profile.jpg
+about_profile_image: https://media.licdn.com/dms/image/v2/D4E03AQHKLzKOagyflw/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1713480779525?e=1731542400&v=beta&t=H62IRPbIPNvWAci9kKQa7YdGyClFXnRG4h78NIb_hdw
 about_content: | # this will include new lines to allow paragraphs
   Hi, my name's Samuel and I'm a Computer Engineer. As well as a BI developer, I have experience with web apps and AI projects. Teamwork and commitment are two of my main skills.
 
